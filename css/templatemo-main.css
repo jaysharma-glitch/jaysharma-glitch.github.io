@@ -598,7 +598,7 @@ h4,
 
   background-image: url(../images/2-a.png);
   background-attachment: fixed;
-  min-height: 80vh;
+  min-height: 100vh;
   background-size: cover;
   background-position: center center;
 }
